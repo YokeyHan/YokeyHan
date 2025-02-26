@@ -8,8 +8,8 @@
 </h1>
 <h5 align="center">
   <code><a href="https://lgy0404.github.io/" title="Homepage Profile">✨HOMEPAGE</a></code>
-  <code><a href="https://500px.com.cn/lgy0404" title="Photo Profile">📷PHOTO</a></code>
-  <code><a href="mailto:guangyiliu@zju.edu.cn" title="Email">📧CONTACT</a></code>
+  <code><a href="https://500px.com.cn/hykdezuopin" title="Photo Profile">📷PHOTO</a></code>
+  <code><a href="mailto:2606355537@qq.com" title="Email">📧CONTACT</a></code>
 </h5>
 
 <br>
