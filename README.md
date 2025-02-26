@@ -1,4 +1,4 @@
-## Hi there 👋 你好，我是韩玉凯，很高兴认识你
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lgy0404.lgy0404">
 
 <h1 align="center">
